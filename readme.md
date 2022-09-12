@@ -95,3 +95,7 @@ gc 6 @48.155s 15%: 0.093+12360+0.32 ms clock,
     - `0.65` markTermCpu
 - `11039->13278->6876 MB` heap size at GC start, at GC end, and live heap
 8 P number of processors used
+
+## Resources
+1. https://www.ardanlabs.com/blog/2018/12/garbage-collection-in-go-part1-semantics.html
+2. https://tip.golang.org/doc/go1.19
